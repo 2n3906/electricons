@@ -1,0 +1,14 @@
+{
+  "name": "electricons",
+  "version": "0.0.1",
+  "description": "Icons for Electrical Engineers",
+  "author": "Scott Johnston",
+  "license": "CC-BY-SA-4.0",
+  "devDependencies": {
+    "gulp-svg-symbols": "^3.2.3"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-svgmin": "^2.2.0"
+  }
+}
